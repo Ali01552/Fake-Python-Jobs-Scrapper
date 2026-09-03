@@ -2,7 +2,7 @@
 
 A small **Python web-scraping practice project** that collects job listings from the [Real Python Fake Jobs](https://realpython.github.io/fake-jobs/) website.
 
-> **Note:** This project was created primarily for learning and practice. It is not intended to be a production-ready job scraping application.
+> **Note:** This project was created primarily for learning and practice. It is not intended to be a production-ready job scraping application. https://roadmap.sh/projects/job-listings-scraper
 
 ## 🎯 Project Purpose
 
